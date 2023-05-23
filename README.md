@@ -39,8 +39,8 @@ Initial Deliverable Slideshow:<p>
 ### The Finished Product
 Our final deliverable included all of the files needed to run the app, along with an oral presentation of our app, and a video demonstration:
 
- 
-https://github.com/Gloworm72/EG10118_Disneyland_Project/assets/105326899/167555e1-630b-4158-82cc-9aa10049de27
+
+https://github.com/Gloworm72/EG10118_Disneyland_Project/assets/105326899/007a20e0-b4f1-4c7d-a985-500c31bc3ae8
 
 
 ### Takeaways
