@@ -25,9 +25,9 @@ Initial Deliverable Slideshow:<p>
 **My Role:**
 * Create script to replace the attraction id’s with the names from the reference list
 * Create script to convert unix time into dates/times
-* Work on method of adding up number of visits for each attraction in a specific month, year, and time of day
+* Work on method of adding up number of visits for each attraction in a specific month and year
 * Create script to make the heat map
-* Work on method of adding up number of visits for each type of attraction in a specific month, year, and time of day
+* Work on method of adding up number of visits for each type of attraction in a specific month and year
 * Create script to display types of attractions on pie graph<p>
 
 **Jack's Role:**
