@@ -29,6 +29,7 @@ Initial Deliverable Slideshow:<p>
 * Create script to make the heat map
 * Work on method of adding up number of visits for each type of attraction in a specific month, year, and time of day
 * Create script to display types of attractions on pie graph<p>
+
 **Jack's Role:**
 * Create script to make a list of first attractions, second attractions, etc.
 * Create code to make bar chart out of attractions order list
@@ -36,4 +37,21 @@ Initial Deliverable Slideshow:<p>
 * Create code to turn script for Question 2 into a line graph
 * Create script to remove duplicate data values (trip number and attraction name the same for back to back values)
 ### The Finished Product
-Our final deliverable included all of the files needed to run the app, along with an oral presenta
+Our final deliverable included all of the files needed to run the app, along with an oral presentation of our app, and a video demonstration:
+
+ 
+https://github.com/Gloworm72/EG10118_Disneyland_Project/assets/105326899/167555e1-630b-4158-82cc-9aa10049de27
+
+
+### Takeaways
+* Disneyland did not have an even distribution of crowd levels
+* Depending on the year and month, some attractions were busier than others
+* People tend to prefer visiting some attractions first, others second, etc. Some attractions, however, remained relatively consistent in their order.<p>
+**How we would change the app going forward:**
+The dataset may have been scewed by the popularity of the app, Flickr, which was used to collect the data. So, if given the opportunity to iterate on our app design, we would standardize the dataset so as not to be influenced by Flickr's popularity.
+### Lessons Learned
+* The importance of cleaning data
+* Different ways to represent data in MATLAB (heat maps, bar graphs, pie charts, etc.)
+* How to effectively work under a tight timeline
+* The importance of peer feedback to our work
+ 
